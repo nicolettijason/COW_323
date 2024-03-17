@@ -1,0 +1,6 @@
+.txt:12
+.stl:9
+.JPG:6
+.png:5
+.jpeg:5
+.dxf:1
